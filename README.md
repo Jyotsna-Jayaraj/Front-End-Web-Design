@@ -1,2 +1,2 @@
 # Front-End-Web-Design
-HTML, CSS, and JavaCript for various Front End Design Ideas.
+HTML, CSS, and JavaScript for various Front End Design Ideas.
